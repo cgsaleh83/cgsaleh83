@@ -1,17 +1,14 @@
 # Hi there, I'm [sajjat Hossain](https://protfolio-4a422.web.app/) 👋
-# I'm a 😍😍 Programing Lover 😍😍!
 
 # About Me
-Hi I am SAJJAT hossain
+Hi I am SAJJAT HOSSAIN
 I am a professional web
 developer . I like
 JavaScript in the
 programming language. I
 have been working with
 JavaScript for a long time.
-And I always love learning
-
-something. And I like hard-
+And I always love learning something. And I like hard-
 working a lot.
 
 
