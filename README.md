@@ -24,7 +24,7 @@ working a lot.
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sajjat8383/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sajjat8383) 
-[![Website Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sajjat8383) 
+[![Website Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=197543&logo=facebook&logoColor=ffffff)](https://www.facebook.com/sajjat8383) 
 
 
 
